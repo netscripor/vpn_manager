@@ -27,7 +27,7 @@ _Клиент имеет компактный интерфейс с выборо
 ```bash
 pip install -r requirements.txt
 ```
-2. Создайте файл config.json
+### 2. Файл config.json
 Создайте config.json в корне проекта (или при сборке в .exe — будет встроен):
 
 ```json
@@ -44,7 +44,7 @@ SERVERS = {
     "222.222.222.222": {"name": "SERVER2", "gateway": "10.22.22.1"},
 }
 ```
-3. Запуск
+### 3. Запуск
 ```bash
 python main.py
 ```
