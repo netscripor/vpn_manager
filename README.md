@@ -102,6 +102,8 @@ VSVersionInfo(
 
 Telegram используется только для уведомлений, данные не отправляются третьим лицам
 
+<img width="676" height="467" alt="Screenshot 2025-07-16 113448" src="https://github.com/user-attachments/assets/2854c112-5ef1-4084-b469-e3d784757c9a" />
+
 📡 Подпишись и поддержи проект:
 
 🔗 GitHub: github.com/netscripor 💰 Boosty: boosty.to/netscripor ✈️ Telegram-канал: t.me/netscripor
